@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+venv/
+.env*
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb
+
+# Model artifacts
+*.pt
+*.pth
+*.bin
+checkpoints/
+weights/
+models/
+
+# Misc
+.DS_Store
+*.log
+
+# Ignore dataset cache
+.hf/

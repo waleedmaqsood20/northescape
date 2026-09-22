@@ -1,0 +1,13 @@
+unsloth
+transformers
+trl
+peft
+accelerate
+bitsandbytes
+torch
+datasets
+huggingface_hub
+tokenizers
+sentencepiece
+numpy
+tqdm
